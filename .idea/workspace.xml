@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec6fb8f-3c85-4158-a401-de90c19d7332" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/HolaMundoMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/HolaMundoMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/OrientacionObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/OrientacionObjetos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +30,18 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Autor.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Libro.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/OrientacionObjetos.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ListaTareas.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Autor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Libro.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/OrientacionObjetos.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion2/TiposDeDato.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2T2sadIiV6MNsHHA4gR2zOUzl0v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,16 +57,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable"
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrientacionObjetos">
-    <configuration name="HolaMundoMod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sesion1.HolaMundoMod" />
+  <component name="RunManager" selected="Application.If">
+    <configuration name="Ciclos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Ciclos" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sesion1.*" />
+          <option name="PATTERN" value="modulo1.sesion2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +74,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrientacionObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sesion1.ejemplo4.OrientacionObjetos" />
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.If" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sesion1.ejemplo4.*" />
+          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Reto1" />
+      <module name="bedu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Switch" />
+      <module name="bedu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposDeDato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.TiposDeDato" />
+      <module name="bedu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo1.sesion2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,8 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrientacionObjetos" />
-        <item itemvalue="Application.HolaMundoMod" />
+        <item itemvalue="Application.If" />
+        <item itemvalue="Application.Ciclos" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.Reto1" />
+        <item itemvalue="Application.TiposDeDato" />
       </list>
     </recent_temporary>
   </component>

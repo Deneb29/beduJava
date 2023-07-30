@@ -1,4 +1,4 @@
-package sesion1.ejemplo4;
+package modulo1.sesion1.ejemplo4;
 
 public class Autor {
     //ATRIBUTOS

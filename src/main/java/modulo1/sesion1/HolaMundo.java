@@ -1,4 +1,4 @@
-package sesion1;
+package modulo1.sesion1;
 
 public class HolaMundo {
     public static void main(String[]args){
