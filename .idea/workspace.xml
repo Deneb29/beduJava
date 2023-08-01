@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec6fb8f-3c85-4158-a401-de90c19d7332" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/HolaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/HolaMundoMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/HolaMundoMod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sesion1/ejemplo4/OrientacionObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/OrientacionObjetos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/Sesion3/Consola.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ListaTareas.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Autor.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Libro.java" root0="SKIP_INSPECTION" />
@@ -51,22 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.If">
-    <configuration name="Ciclos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Ciclos" />
+}</component>
+  <component name="RunManager" selected="Application.Reto2">
+    <configuration name="Consola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Consola" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="PATTERN" value="modulo1.Sesion3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.If" />
+    <configuration name="Entrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Entrada" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="PATTERN" value="modulo1.Sesion3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Letras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Letras" />
+      <module name="bedu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo1.Sesion3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Reto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Reto1" />
+      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Reto1" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="PATTERN" value="modulo1.Sesion3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.Switch" />
+    <configuration name="Reto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Reto2" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.sesion2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TiposDeDato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.sesion2.TiposDeDato" />
-      <module name="bedu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modulo1.sesion2.*" />
+          <option name="PATTERN" value="modulo1.Sesion3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.Ciclos" />
-        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.Reto2" />
         <item itemvalue="Application.Reto1" />
-        <item itemvalue="Application.TiposDeDato" />
+        <item itemvalue="Application.Letras" />
+        <item itemvalue="Application.Consola" />
+        <item itemvalue="Application.Entrada" />
       </list>
     </recent_temporary>
   </component>
