@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec6fb8f-3c85-4158-a401-de90c19d7332" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/Libro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion1/ejemplo4/OrientacionObjetos.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion2/TiposDeDato.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/modulo1/sesion5/ejemplo1/Ejemplo1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2T2sadIiV6MNsHHA4gR2zOUzl0v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,13 +61,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reto2">
-    <configuration name="Consola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Consola" />
+  <component name="RunManager" selected="Application.Ejemplo3">
+    <configuration name="Ejemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion5.ejemplo1.Ejemplo1" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.Sesion3.*" />
+          <option name="PATTERN" value="modulo1.sesion5.ejemplo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,25 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Entrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Entrada" />
+    <configuration name="Ejemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion5.ejemplo3.Ejemplo3" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.Sesion3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Letras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Letras" />
-      <module name="bedu.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modulo1.Sesion3.*" />
+          <option name="PATTERN" value="modulo1.sesion5.ejemplo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="Reto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Reto1" />
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion5.reto1.Reto1" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.Sesion3.*" />
+          <option name="PATTERN" value="modulo1.sesion5.reto1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +102,24 @@
       </method>
     </configuration>
     <configuration name="Reto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modulo1.Sesion3.Reto2" />
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion5.reto2.Reto2" />
       <module name="bedu.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="modulo1.Sesion3.*" />
+          <option name="PATTERN" value="modulo1.sesion5.reto2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="modulo1.sesion5.ejemplo2.Ejemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo1.sesion5.ejemplo2.Ejemplo2" />
+      <module name="bedu.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo1.sesion5.ejemplo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejemplo3" />
         <item itemvalue="Application.Reto2" />
+        <item itemvalue="Application.modulo1.sesion5.ejemplo2.Ejemplo2" />
         <item itemvalue="Application.Reto1" />
-        <item itemvalue="Application.Letras" />
-        <item itemvalue="Application.Consola" />
-        <item itemvalue="Application.Entrada" />
+        <item itemvalue="Application.Ejemplo1" />
       </list>
     </recent_temporary>
   </component>
